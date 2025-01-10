@@ -19,5 +19,6 @@ I have created several guides to help others in the blockchain community set up 
 - [0g Installation Guide](https://github.com/Orydysst-Dev/TestnetGuides/blob/main/0g-installtion.md)
 - [Artela Installation Guide](https://github.com/Orydysst-Dev/TestnetGuides/blob/main/artela-installation.md)
 - [Warden Installation Guide](https://github.com/Orydysst-Dev/TestnetGuides/blob/main/warden-installation.md)
+- [Voi Network Installation Guide](https://github.com/Orydysst-Dev/Voi-Network)
 
 Feel free to reach out if you have any questions or need assistance with your blockchain projects. Let's work together to make the blockchain ecosystem more secure and efficient!
